@@ -7,3 +7,7 @@ TO DO:
 - Add smooth scrolling
 - Add custom 404 page
 - Add custom thank you page from contact form
+- Add google maps using proper api
+- Grey scale google map
+- Experiment by increasing banner size
+- Button to slide down if banner size is increased
