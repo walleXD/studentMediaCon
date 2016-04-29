@@ -1,7 +1,7 @@
 social:
   twitter: "https://twitter.com/SMC_NYC"
-  facebook: ""
-  instagram: ""
+  facebook: "https://www.facebook.com/studentmediacon"
+  instagram: "https://www.instagram.com/studentmediacon/"
   snapchat: ""
 
 contactForm:
@@ -10,22 +10,20 @@ contactForm:
 
 organizers:
   logo:
-    whcs: "whcs_logo.jpg"
+    whcs: "whcs_transparent.png"
     asterix: "asterix_logo.png"
 
 sponsors:
   lolaGranola:
     logo: "lola.jpeg"
-    website: ""
+    website: "http://www.lolagranolabar.com"
   chipotle: 
     logo: "chipotle.jpg"
     website: "https://www.chipotle.com"
   jerseyMikes: 
     logo: "jersey.jpg"
-    website: ""
+    website: "https://www.jerseymikes.com"
 
 googleMaps:
   key: AIzaSyDtIL2BjC-BpfwyhDuvQD9ff2kGOeLAhJk
 
-# gems:
-#  - jekyll-sitemap
