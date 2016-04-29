@@ -2,5 +2,9 @@
 	nav {
 		// @extend .grey, .darken-4;
 		background-color: #212121;
+		.brand-logo {
+			font-family: 'Anton', sans-serif !important;
+			font-size: 300%;
+		}
 	}
 }

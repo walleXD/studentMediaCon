@@ -1,31 +1,32 @@
 social:
   twitter: "https://twitter.com/SMC_NYC"
-  facebook: ""
-  instagram: ""
-  snapchat: ""
+  facebook: "https://www.facebook.com/studentmediacon"
+  instagram: "https://www.instagram.com/studentmediacon/"
+  snapchat: "https://www.snapchat.com/add/studentmediacon"
 
 contactForm:
   emailToReceive: "studentmediacon@gmail.com"
 
 
 organizers:
-  logo:
-    whcs: "whcs_logo.jpg"
-    asterix: "asterix_logo.png"
+  whcs: 
+    logo: "whcs_transparent.png"
+    website: "http://whcsradio.org"
+  asterix: 
+    logo: "asterix_logo.png"
+    website: "http://asterixmedia.com"
 
 sponsors:
   lolaGranola:
     logo: "lola.jpeg"
-    website: ""
+    website: "http://www.lolagranolabar.com"
   chipotle: 
     logo: "chipotle.jpg"
     website: "https://www.chipotle.com"
   jerseyMikes: 
     logo: "jersey.jpg"
-    website: ""
+    website: "https://www.jerseymikes.com"
 
 googleMaps:
   key: AIzaSyDtIL2BjC-BpfwyhDuvQD9ff2kGOeLAhJk
 
-# gems:
-#  - jekyll-sitemap
