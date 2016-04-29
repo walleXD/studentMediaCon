@@ -7,7 +7,7 @@ TO DO:
 * [X] Add missing links
 * [ ] smooth scrolling
 * [ ] custom 404 page
-* [ ] custom thank you page from contact form
+* [X] custom thank you page from contact form
 * [ ] google maps using proper api
 * [ ] Grey scale google map
 * [ ] Experiment by increasing banner size
