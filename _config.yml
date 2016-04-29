@@ -9,9 +9,12 @@ contactForm:
 
 
 organizers:
-  logo:
-    whcs: "whcs_transparent.png"
-    asterix: "asterix_logo.png"
+  whcs: 
+    logo: "whcs_transparent.png"
+    website: "http://whcsradio.org"
+  asterix: 
+    logo: "asterix_logo.png"
+    website: "http://asterixmedia.com"
 
 sponsors:
   lolaGranola:
