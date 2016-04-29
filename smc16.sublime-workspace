@@ -1,0 +1,602 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"titl",
+				"titleHolder	(banner.html)"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"default",
+				"defaultLayout	(body.html)"
+			],
+			[
+				"head",
+				"header	<header>"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"tem",
+				"templateName"
+			],
+			[
+				"se",
+				"section	<section>"
+			],
+			[
+				"sec",
+				"sectionId"
+			],
+			[
+				"test",
+				"test()	stringify.js"
+			],
+			[
+				"def",
+				"default	(default.scss)"
+			],
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"heigh",
+				"min-height"
+			],
+			[
+				"title",
+				"titleHolder	(main.css)"
+			],
+			[
+				"H",
+				"Hello"
+			],
+			[
+				"defmo",
+				"defmodule	(router.ex)"
+			],
+			[
+				"cur",
+				"currentUser"
+			],
+			[
+				"sub",
+				"subscription(name)	kadira_flow-router.js"
+			],
+			[
+				"subs",
+				"subscribe()	kadira_flow-router.js"
+			],
+			[
+				"getDefault",
+				"getDefaultProps()	react-runtime-dev.js"
+			],
+			[
+				"getDefa",
+				"getDefaultProps()	react-runtime-dev.js"
+			],
+			[
+				"React",
+				"ReactLayout"
+			],
+			[
+				"unb",
+				"unblock()	ddp.js"
+			],
+			[
+				"set",
+				"setTimeout                 (fn)   [E]"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"argi",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"arr",
+				"arr3"
+			],
+			[
+				"ar",
+				"arr2	union.js"
+			],
+			[
+				"pai",
+				"pairRules"
+			],
+			[
+				"index",
+				"indexOf('aSome')"
+			],
+			[
+				"to",
+				"toUpperCase()"
+			],
+			[
+				"word",
+				"wordlength	sNr.js"
+			],
+			[
+				"get",
+				"getConversion"
+			],
+			[
+				"con",
+				"conversions"
+			],
+			[
+				"hold",
+				"holder"
+			],
+			[
+				"numA",
+				"numArray"
+			],
+			[
+				"conv",
+				"converaions"
+			],
+			[
+				"getW",
+				"getWeather()	app.js"
+			],
+			[
+				"fin",
+				"finalizedLink"
+			],
+			[
+				"uni",
+				"unit"
+			],
+			[
+				"la",
+				"latitude"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"te",
+				"test	QUnit test"
+			],
+			[
+				"cl",
+				"click	.click()"
+			],
+			[
+				"stri",
+				"string1"
+			],
+			[
+				"slice",
+				"splice(aSome)"
+			],
+			[
+				"class",
+				"classname	(app.js)"
+			],
+			[
+				"ad",
+				"adminouter"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"r",
+				"rel	Attr"
+			],
+			[
+				"me",
+				"meta"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 534.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wahmed/Development/staticSites/smc16"
+	],
+	"file_history":
+	[
+		"/Users/wahmed/Development/staticSites/smc16/README.md",
+		"/Users/wahmed/Development/staticSites/smc16-old/_sass/pages/home/_location.scss",
+		"/Users/wahmed/Development/staticSites/smc16-old/_sass/pages/home/_organizers.scss",
+		"/Users/wahmed/Development/staticSites/smc16-old/_sass/pages/home/_home.scss",
+		"/Users/wahmed/Development/staticSites/smc16-old/_sass/pages/home/_contact.scss",
+		"/Users/wahmed/Development/staticSites/smc16-old/_includes/landingPage/contact.html",
+		"/Users/wahmed/Development/staticSites/smc16-old/_includes/landingPage/organizers.html",
+		"/Users/wahmed/Development/staticSites/smc16-old/_sass/pages/home/_sponsors.scss",
+		"/Users/wahmed/Development/staticSites/smc16-old/_includes/landingPage/sponsors.html",
+		"/Users/wahmed/Development/staticSites/smc16-old/_includes/landingPage/location.html",
+		"/Users/wahmed/Development/staticSites/smc16-old/_includes/landingPage/contactForm.html",
+		"/Users/wahmed/Development/staticSites/smc16-old/_includes/landingPage/about.html",
+		"/Users/wahmed/Development/staticSites/smc16-old/_sass/pages/home/_about.scss",
+		"/Users/wahmed/Development/staticSites/smc16-old/_includes/landingPage/banner.html",
+		"/Users/wahmed/Development/staticSites/smc16-old/_sass/pages/home/_banner.scss",
+		"/Users/wahmed/Development/staticSites/smc16-old/_includes/landingPage/sections.html",
+		"/Users/wahmed/Development/staticSites/smc16/_sass/pages/landingPage/_about.scss",
+		"/Users/wahmed/Development/staticSites/smc16/_sass/_index.scss",
+		"/Users/wahmed/Development/staticSites/smc16/_sass/_config.scss",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/defaultLayout/scriptLoaders.html",
+		"/Users/wahmed/Development/staticSites/smc16/_sass/pages/landingPage/_index.scss",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/landingPage/sections.html",
+		"/Users/wahmed/Development/staticSites/smc16/index.html",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/defaultLayout/header.html",
+		"/Users/wahmed/Development/staticSites/smc16/assets/js/app.js",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/landingPage/contact.html",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/landingPage/contactForm.html",
+		"/Users/wahmed/Development/staticSites/smc16/_sass/layouts/default/_body.scss",
+		"/Users/wahmed/Development/staticSites/smc16/assets/css/app.scss",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/defaultLayout/head.html",
+		"/Users/wahmed/Development/staticSites/smc16/_sass/layouts/default/_footer.scss",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/defaultLayout/headerLinks.html",
+		"/Users/wahmed/Development/staticSites/smc16/_config.yml",
+		"/Users/wahmed/Development/staticSites/smc16/_layouts/default.html",
+		"/Users/wahmed/Development/staticSites/smc16/assets/js/app.coffee",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/landingPage/about.html",
+		"/Users/wahmed/Downloads/smc-16/.gitignore",
+		"/Users/wahmed/Downloads/smc-16/_sass/pages/home/_home.scss",
+		"/Users/wahmed/Development/staticSites/jekyll-base/.gitignore",
+		"/Users/wahmed/Development/staticSites/jekyll-base/assets/js/main.js",
+		"/Users/wahmed/Development/staticSites/jekyll-base/_includes/defaultLayout/footer.html",
+		"/Users/wahmed/Development/staticSites/jekyll-base/assets/css/main.scss",
+		"/Users/wahmed/Development/staticSites/jekyll-base/_sass/_config.scss",
+		"/Users/wahmed/Development/staticSites/jekyll-base/_includes/defaultLayout/navbar.html",
+		"/Users/wahmed/Development/staticSites/jekyll-base/_includes/defaultLayout/scriptLoaders.html",
+		"/Users/wahmed/Development/staticSites/jekyll-base/_layouts/default.html",
+		"/Users/wahmed/Development/staticSites/jekyll-base/_sass/_base.scss",
+		"/Users/wahmed/Development/staticSites/jekyll-base/_config.yml",
+		"/Users/wahmed/Development/staticSites/jekyll-base/_includes/defaultLayout/head.html",
+		"/Users/wahmed/Development/staticSites/jekyll-base/_includes/default/head.html",
+		"/Users/wahmed/Development/staticSites/smc16_old/_includes/footer.html",
+		"/Users/wahmed/Development/staticSites/smc16/Gemfile",
+		"/Users/wahmed/Development/staticSites/smc16_old/_config.yml",
+		"/Users/wahmed/Development/staticSites/smc16/_sass/landingPage/_homeAbout.scss",
+		"/Users/wahmed/Development/staticSites/smc16/_sass/landingPage/_homeBanner.scss",
+		"/Users/wahmed/Development/staticSites/smc16/_sass/layouts/_default.scss",
+		"/Users/wahmed/Development/staticSites/smc16/_sass/_base.scss",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/header.html",
+		"/Users/wahmed/Development/staticSites/smc16/assets/css/main.scss",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/head.html",
+		"/Users/wahmed/Development/staticSites/smc16/assets/css/main.css",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/LandingPage/about.html",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/LandingPage/banner.html",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/LandingPage/contact.html",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/LandingPage/location.html",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/LandingPage/organizers.html",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/footer.html",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/LandingPage/sponsors.html",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/LandingPage/Sections.html",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/LoadScripts.html",
+		"/Users/wahmed/Development/staticSites/smc16/_includes/LandingPage/LoadScripts",
+		"/Users/wahmed/Development/staticSites/smc16/assets/js/main.js",
+		"/Users/wahmed/Development/staticSites/whcs-docs/_includes/sidebar.html",
+		"/Users/wahmed/Development/staticSites/whcs-docs/_includes/header.html",
+		"/Users/wahmed/Development/meteorProjects/asterix/imports/ui/components/HomeMissionStatement/HomeMissionStatement.js",
+		"/Users/wahmed/Development/meteorProjects/asterix/imports/ui/pages/Home/Home.js",
+		"/Users/wahmed/Development/meteorProjects/Scraped/asterix/asterix/imports/ui/pages/Home/Home.js",
+		"/Users/wahmed/Development/meteorProjects/workInProgress_webpack/src/client/pages/Home/Home.jsx",
+		"/Users/wahmed/Development/meteorProjects/workInProgress_webpack/src/client/routes/publicRoutes.jsx",
+		"/Users/wahmed/Development/meteorProjects/asterix/mup.json",
+		"/Users/wahmed/Development/learningPhoenix/hello/web/templates/layout/app.html.eex",
+		"/Users/wahmed/Development/learningPhoenix/hello/config/dev.exs",
+		"/Users/wahmed/Development/meteorProjects/Scraped/asterix/imports/startup/client/routes/routesPublic.jsx",
+		"/Users/wahmed/Development/meteorProjects/studentMediaCon/imports/startup/client/routes.jsx",
+		"/Users/wahmed/Development/meteorProjects/Scraped/asterix/asterix/imports/ui/components/SignInForm/SignInForm.js",
+		"/Users/wahmed/Development/meteorProjects/Scraped/asterix/asterix/imports/ui/components/SignInForm/SignInForm.scss",
+		"/Users/wahmed/Downloads/MeteorToys.txt",
+		"/Users/wahmed/Development/meteorProjects/Scraped/asterix/asterix/imports/ui/components/SignUpForm/SignUpForm.js",
+		"/Users/wahmed/Development/meteorProjects/Scraped/asterix/asterix/imports/startup/server/fixtures.js",
+		"/Users/wahmed/Development/meteorProjects/asterix_materialize/imports/startup/client/routes.js",
+		"/Users/wahmed/Development/meteorProjects/asterix/package.json",
+		"/Users/wahmed/Development/meteorProjects/asterix_material-ui/package.json",
+		"/Users/wahmed/Desktop/Fwd_ Help plan Hunter College's first Student Media Conference.eml",
+		"/Users/wahmed/Downloads/CSSReset-2.com - Keeping Footer At The Bottom Of The Page/style.css",
+		"/Users/wahmed/Downloads/CSSReset-2.com - Keeping Footer At The Bottom Of The Page/index.html",
+		"/Users/wahmed/Development/test/test.html",
+		"/Users/wahmed/Development/test/test.js",
+		"/Users/wahmed/Development/test/test.scss",
+		"/Users/wahmed/Development/meteorGenerator/generator-meteoric/generators/app/index.js",
+		"/Users/wahmed/Development/meteorGenerator/generator-meteoric/test/app.js",
+		"/Users/wahmed/Development/meteorGenerator/generator-meteoric/package.json",
+		"/Users/wahmed/Development/meteorGenerator/package.json",
+		"/Users/wahmed/Downloads/9881OS_Code/Node.js Express/project1 Section 4.3/routes/contacts.js",
+		"/Users/wahmed/Downloads/9881OS_Code/Node.js Express/project1 Section 4.3/app.js",
+		"/Users/wahmed/Downloads/9881OS_Code/Node.js Express/project1 Section 4.1/views/index.jade",
+		"/Users/wahmed/Downloads/bootstrap-3.3-2.6-dist/js/npm.js",
+		"/Users/wahmed/Development/meteorProjects/mantra-basic-boilerPlate/package.json",
+		"/Users/wahmed/Development/meteorProjects/mantra-sample-blog-app/package.json",
+		"/Users/wahmed/Development/meteorProjects/work-in-progress/package.json",
+		"/Users/wahmed/Desktop/intro-to-meteor-react/app/client/components/forms/EmailPasswordForm.jsx",
+		"/Users/wahmed/Desktop/intro-to-meteor-react/app/client/components/App.jsx",
+		"/Users/wahmed/Desktop/intro-to-meteor-react/app/client/components/layout/AppHeader.jsx",
+		"/Users/wahmed/Desktop/intro-to-meteor-react/app/client/views/Login.jsx",
+		"/Users/wahmed/Desktop/intro-to-meteor-react/app/client/views/Register.jsx",
+		"/Users/wahmed/Desktop/intro-to-meteor-react/app/client/views/TaskList.jsx",
+		"/Users/wahmed/Desktop/intro-to-meteor-react/app/client/views/[Login/Register/TasksList].jsx\n[Login/Register/TasksList].jsx\n[Login/Register/TasksList].jsx\n[Login/Register/TasksList].jsx\n[Login/Register/TaskList].jsx",
+		"/Users/wahmed/Desktop/Microscope/lib/router.js",
+		"/Users/wahmed/Desktop/bullet-unblock/server/geo.js",
+		"/Users/wahmed/Desktop/bullet-defer/server/0overrides.js",
+		"/Users/wahmed/Desktop/bullet-kadira/server/kadira.js",
+		"/Users/wahmed/Downloads/podcast.xml",
+		"/Users/wahmed/Desktop/generator-blog/generators/app/index.js",
+		"/Users/wahmed/Desktop/generator-blog/generators/app/templates/_package.json",
+		"/Users/wahmed/Desktop/generator-blog/generators/app/templates/_layouts.main/_index.jsx",
+		"/Users/wahmed/Desktop/generator-blog/generators/app/templates/gitignore",
+		"/Users/wahmed/Desktop/generator-blog/generators/app/templates/eslintrc",
+		"/Users/wahmed/Desktop/generator-blog/generators/app/templates/package.json",
+		"/Users/wahmed/Desktop/generator-blog/package.json"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"margin",
+			"padding",
+			"default",
+			"mater",
+			"Banner",
+			"postgres",
+			"post",
+			"this.mkdir",
+			"margin-left: 0;",
+			"dist",
+			"images",
+			"dist",
+			"images",
+			"dist",
+			"col-xs-6",
+			"form",
+			"tweet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "smc16.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

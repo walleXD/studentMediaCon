@@ -1,8 +1,5 @@
 .sass-cache
 _site
-<<<<<<< HEAD
-.jekyll-metadata
-=======
 .jekyll-metadata
 .DS_Store
->>>>>>> origin/gh-pages
+*.sublime-project
