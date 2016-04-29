@@ -1,0 +1,6 @@
+.minimalFooter {
+	@extend .default;
+	.page-footer {
+		padding-top: 0;
+	}
+}
