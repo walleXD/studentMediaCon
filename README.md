@@ -5,7 +5,8 @@ Student Media Con (SMC'16) is a conference open to student media organizations a
 TO DO:
 * [X] Change navbar logo font to Anton
 * [X] Add missing links
-* [ ] smooth scrolling
+* [X] smooth scrolling
+* [X] Add button to scroll back up on the landing page when past banner
 * [ ] custom 404 page
 * [X] custom thank you page from contact form
 * [ ] google maps using proper api
