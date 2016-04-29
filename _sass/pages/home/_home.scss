@@ -1,0 +1,14 @@
+@import "../../config";
+@import "../../materialize/components/_variables";
+
+.pageHome {
+	
+	@import 
+		"banner",
+		"about",
+		"location",
+		"sponsors",
+		"organizers",
+		"contact"
+	;
+}

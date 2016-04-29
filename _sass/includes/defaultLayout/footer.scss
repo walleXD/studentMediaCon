@@ -1,0 +1,9 @@
+.footer {
+	.page-footer {
+		@extend .grey, .darken-3;
+		margin-top: 0;
+	}
+	.footer-copyright {
+		@extend .grey, .darken-4;
+	}
+}

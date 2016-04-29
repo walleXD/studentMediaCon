@@ -1,0 +1,57 @@
+.banner {
+
+	background: $primary-color;
+	background-image:url('../images/pages/home/banner.png');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center; 
+
+	margin: 0;
+	// max-width: 1200px;
+	min-width: 300px;
+	max-height: 700px;
+	min-height: 500px;
+	font-size: 130%;
+	
+	.row {
+		margin: 0;
+		padding-top: 75px;
+	}
+	.titleHolder {
+		h1 {
+			margin: 0;
+		}
+		h3 {
+			margin: 0;	
+		}
+	}
+
+	.anton {
+		font-family: 'Anton', sans-serif !important;
+		h1 {
+			font-size: 700%;
+		}
+		h3 {
+			font-size: 400%;
+		}
+		@media #{$medium-and-down} {
+  			h1 {
+
+  				font-size: 550%;
+  			}
+  			h3 {
+				font-size: 300%;
+			}	
+  		}
+		@media #{$small-and-down} {
+  			h1 {
+  				font-size: 400%;
+  			}
+  			h3 {
+				font-size: 250%;
+			}	
+  		}
+	}
+
+
+}

@@ -1,0 +1,20 @@
+.about {
+	background-color: #eee;
+
+	.holder {
+		margin: auto;
+		max-width: 800px;
+		max-height: 600px;
+		font-size: 130%;
+		min-height: 150px;
+		min-width: 300px;
+	}
+
+	p {
+		text-align: justify;
+	}
+
+	.row {
+		margin: 0;
+	}
+}

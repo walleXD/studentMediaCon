@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+	{% include defaultLayout/head.html %}
+
+	<body class="default">
+		{% include defaultLayout/navbar.html%}
+		
+		<main>
+			{{ content }}
+		</main>
+
+		{% include defaultLayout/footer.html %}
+		
+		{% include defaultLayout/scriptLoaders.html %}
+	</body>
+
+</html>

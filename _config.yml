@@ -1,0 +1,31 @@
+social:
+  twitter: "https://twitter.com/SMC_NYC"
+  facebook: ""
+  instagram: ""
+  snapchat: ""
+
+contactForm:
+  emailToReceive: "studentmediacon@gmail.com"
+
+
+organizers:
+  logo:
+    whcs: "whcs_logo.jpg"
+    asterix: "asterix_logo.png"
+
+sponsors:
+  lolaGranola:
+    logo: "lola.jpeg"
+    website: ""
+  chipotle: 
+    logo: "chipotle.jpg"
+    website: "https://www.chipotle.com"
+  jerseyMikes: 
+    logo: "jersey.jpg"
+    website: ""
+
+googleMaps:
+  key: AIzaSyDtIL2BjC-BpfwyhDuvQD9ff2kGOeLAhJk
+
+# gems:
+#  - jekyll-sitemap
