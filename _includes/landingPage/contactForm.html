@@ -23,5 +23,10 @@
 		<div class="input-field col s12">
 			<input type="submit" value="send" class="waves-button-input btn"/>
 		</div>
+		<div>
+			<input type="hidden" name="_next" value="{{ site.github.url }}/thankyou" />
+			<input type="hidden" name="_subject" value="SMC16: Contact form from website" />
+			<input type="text" name="_gotcha" style="display:none" />
+		</div>
 	</div>
 </form>

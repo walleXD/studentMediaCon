@@ -1,0 +1,22 @@
+.pageThankYou {
+	background: #212121;;
+	height: 100vh;
+
+	.cardHolder {
+		@media #{$medium-and-up} {
+			padding-top: 50px;
+		}
+		@media #{$small-and-down} {
+			padding-top: 30px;
+		}
+		p {
+			text-align: justify;
+			font-size: 110%
+		}
+	}
+	
+	.homeIcon {
+		color: #fff;
+		padding-top: 10px;
+	}
+}
