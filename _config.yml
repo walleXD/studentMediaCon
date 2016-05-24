@@ -9,10 +9,10 @@ contactForm:
 
 
 organizers:
-  whcs: 
+  whcs:
     logo: "whcs_transparent.png"
     website: "http://whcsradio.org"
-  asterix: 
+  asterix:
     logo: "asterix_logo.png"
     website: "http://asterixmedia.com"
 
@@ -20,13 +20,15 @@ sponsors:
   lolaGranola:
     logo: "lola.jpeg"
     website: "http://www.lolagranolabar.com"
-  chipotle: 
+  chipotle:
     logo: "chipotle.jpg"
     website: "https://www.chipotle.com"
-  jerseyMikes: 
+  jerseyMikes:
     logo: "jersey.jpg"
     website: "https://www.jerseymikes.com"
+  rawsome:
+    logo: "Rawsome.jpg"
+    website: "http://www.rawsometreats.com"
 
 googleMaps:
   key: AIzaSyDtIL2BjC-BpfwyhDuvQD9ff2kGOeLAhJk
-
