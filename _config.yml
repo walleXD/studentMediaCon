@@ -29,6 +29,9 @@ sponsors:
   rawsome:
     logo: "Rawsome.jpg"
     website: "http://www.rawsometreats.com"
+  davids:
+    logo: "davids.jpg"
+    website: "https://www.davidstea.com/"
 
 googleMaps:
   key: AIzaSyDtIL2BjC-BpfwyhDuvQD9ff2kGOeLAhJk
