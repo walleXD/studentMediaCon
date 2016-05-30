@@ -13,3 +13,6 @@ TO DO:
 * [ ] Grey scale google map
 * [ ] Experiment by increasing banner size
 * [ ] Button to slide down if banner size is increased
+* [ ] Update asterix* icon
+* [ ] Experiment w/ parallex design for home page
+* [ ] Add active on click to navbar
