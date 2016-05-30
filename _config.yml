@@ -32,6 +32,12 @@ sponsors:
   davids:
     logo: "davids.jpg"
     website: "https://www.davidstea.com/"
+  gregory:
+    logo: "gregory.jpg"
+    website: "http://www.gregoryscoffee.com"
+  ditch:
+    logo: "ditch.png"
+    website: "https://www.ditchthespace.com"
 
 googleMaps:
   key: AIzaSyDtIL2BjC-BpfwyhDuvQD9ff2kGOeLAhJk
